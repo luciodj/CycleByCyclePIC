@@ -9,10 +9,5 @@ This is a more accurate Cycle by Cycle Emulator for the (PIC16F5xx) baseline ori
 * Testing of correct instruction execution is done by using the py.test package
 
  
-
-
-
-
-
-
-
+## Related Projects
+* [A baseline PIC emulator (in C)](https://github.com/luciodj/BaselineEmulator)
